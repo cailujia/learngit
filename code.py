@@ -13,3 +13,4 @@ img = qr.make_image()
 img.save('my_qrcode.png')
 
 print('hahahaha')
+print('ddd')
